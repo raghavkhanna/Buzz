@@ -35,7 +35,6 @@ You need the following packages:
 * _cmake_ >= 2.8.12
 
 Optionally, you can also install [ARGoS](http://www.argos-sim.info/).
-In order to have access to the buzz argos editor please install buzz after installing the argos simulator.
 
 Compilation
 -----------
